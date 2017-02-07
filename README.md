@@ -3,12 +3,12 @@
 `bower install angularjs-tree-grid`
 
 ### Add dependency to module
-`
+```
 angular.module('MyModule', ['angularjs-tree-grid']);
-`
+```
 
 ## Usage
-`
+```
 <script type="text/javascript" src="bower_components/angularjs-tree-grid/angularjs-tree-grid.js"></script>
 <tree-grid nodes="exampleNodes" node-selected="nodeSelected(selectedNode)">
     <options children-key="children">
@@ -18,7 +18,7 @@ angular.module('MyModule', ['angularjs-tree-grid']);
         </columns>
     </options>
 </tree-grid>
-`
+```
 
 ### Example
 ...
