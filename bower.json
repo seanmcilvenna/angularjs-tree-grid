@@ -1,0 +1,18 @@
+{
+  "name": "angularjs-tree-grid",
+  "main": "angularjs-tree-grid.js",
+  "authors": [
+    "Sean McIlvenna <sean.mcilvenna@lantanagroup.com>"
+  ],
+  "description": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
