@@ -30,3 +30,11 @@ angular.module('MyModule', ['angularjs-tree-grid']);
 | options.columns | The array of columns |
 | options.columns.key | The name of the property on each node that should be used for the column |
 | options.columns.header | The header of the column (what is displayed in the first/header row of the table) |
+
+## ☕ Support My Work
+
+Find this useful and want to show appreciation??  
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20My%20Work-orange?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/seanmcilvenna)
+
+Your support helps keep this project alive and motivates me to continue improving it! 🚀
